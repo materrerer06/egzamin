@@ -9,3 +9,4 @@ WHERE kierunek = 'Warszawa'
 UPDATE odloty
 SET status_lotu = 'opoznienie 20 min'
 WHERE nr_rejsu = 'LX5673'
+s
